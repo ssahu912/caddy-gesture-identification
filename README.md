@@ -33,3 +33,6 @@ It is a classification type problem where given an image of the person with the 
 
 **The first verion of the Project was able to acheive a 86% of validation accuracy and 85% of Test accuracy.**
 For all the metrics and versions please visit my <a href="https://jovian.ai/shubham912sahu/caddy-gestures-course-project">jovian profile</a>.
+
+### To Contribute OR Edit
+ Just open the ```caddy_gestures_course_project.ipynb``` file and click on ```open in colab``` to view properly.
